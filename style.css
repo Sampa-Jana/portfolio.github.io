@@ -153,7 +153,7 @@ nav ul li a:hover::after{
     overflow: hidden;
 }
 .work img{
-    width: 100%;
+    width: 50%;
     border-radius: 20px;
     display: block;
     transition: transform 0.5s;
